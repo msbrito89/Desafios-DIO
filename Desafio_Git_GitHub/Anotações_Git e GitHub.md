@@ -115,6 +115,7 @@ core.ignorecase=true
 
 Quando tentar dar **push** provavelmente receberei a mensagem abaixo:
 
+![Erro de conflito no Push para GitHub](https://user-images.githubusercontent.com/116027338/213772576-3348113e-2288-4142-a847-3a957d97d5aa.PNG)
 
 
 Para resolver esse problema de conflito posso usar o comando **pull**:
@@ -123,7 +124,9 @@ Para resolver esse problema de conflito posso usar o comando **pull**:
 
 Caso dê conflito de Merge (acontece quando a alteração foi na mesma linha) , terei que abrir o arquivo manualmente e realizar as alterações necessárias.
 
+Erro de Merge:
 
+![Conflito de Merge](https://user-images.githubusercontent.com/116027338/213772642-e72c1cf6-cace-4663-95bf-79a56fac3d5c.PNG)
 
 
 
